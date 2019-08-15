@@ -4,4 +4,4 @@ def parrot
   puts "Squawk!"
 end
 
-phrase = 
+phrase = "parrot"
